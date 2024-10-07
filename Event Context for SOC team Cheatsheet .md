@@ -3,9 +3,9 @@
 ---
 
 <aside>
-1️⃣
 
-## What is event context ?
+
+## 1️⃣ What is event context ?
 
 </aside>
 
@@ -20,9 +20,9 @@
 ---
 
 <aside>
-2️⃣
 
-## Let’s dive into the key components that define **event context** in QRadar :
+
+## 2️⃣ Let’s dive into the key components that define **event context** in QRadar :
 
 </aside>
 
@@ -157,9 +157,9 @@ QRadar integrates with **threat intelligence feeds** that enhances events with a
 ---
 
 <aside>
-3️⃣
 
-## Importance of Event Context for Threat Detection and Response :
+
+## 3️⃣ Importance of Event Context for Threat Detection and Response :
 
 </aside>
 
@@ -184,9 +184,9 @@ Event context also enables QRadar to detect anomalies in network traffic or user
 ---
 
 <aside>
-4️⃣
 
-## Event Context Extraction :
+
+## 4️⃣ Event Context Extraction :
 
 </aside>
 
@@ -231,9 +231,9 @@ Once the event has been enriched with context, both the **event properties** and
 ---
 
 <aside>
-5️⃣
 
-## Example Flow of Event Context Extraction and Storage:
+
+## 5️⃣ Example Flow of Event Context Extraction and Storage:
 
 </aside>
 
